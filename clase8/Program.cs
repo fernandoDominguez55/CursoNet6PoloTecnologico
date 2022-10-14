@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int fila=0;
+int columnas =0;
+
+int[,] numeros = new int[fila,columnas];
